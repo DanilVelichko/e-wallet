@@ -2,9 +2,9 @@
 
 
 ## Register or Login
-![Register](./assets/register.png)
+![Register](./assets/Register.png)
 or
-![Login](./assets/login.png)
+![Login](./assets/Login.png)
 
 
 ## Monitor list of transactions
