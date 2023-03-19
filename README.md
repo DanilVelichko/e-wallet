@@ -2,16 +2,16 @@
 
 
 ## Register or Login
-(./assets/register.png)
+![Register](./assets/register.png)
 or
-(./assets/login.png)
+![Login](./assets/login.png)
 
 
 ## Monitor list of transactions
-(./assets/Monuitor_all.png)
+![transactions](./assets/Monitor_all_tr.png)
 
 ## Add income/expense transaction
-(./assets/add_transaction.png)
+![ADD](./assets/add_transaction.png)
 
 ## See transaction statics by period
-(./assets/Statistics.png)
+![Statistics](./assets/Statistics.png)
